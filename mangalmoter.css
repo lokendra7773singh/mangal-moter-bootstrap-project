@@ -1,0 +1,81 @@
+.fixed {
+    height: 280px;
+    width: 50px;
+    background-color: #1dcc43;
+    position: fixed;
+    top: 300px;
+    right: 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    z-index: 1;
+    writing-mode: vertical-lr;
+    padding: 15px 0px 0px 20px;
+}
+
+.colorgreen {
+    color: #1dcc43;
+
+}
+
+.lh-lg {
+    line-height: 20px;
+
+}
+
+h6 {
+    font-size: 22px;
+}
+
+.bgcolorgreen {
+    background-color: #1dcc43;
+    color: white;
+
+}
+
+.fontsize {
+font-size: 30px;
+
+}
+.pt{
+padding-top: 0px;
+
+}
+.back{
+height: 350px;
+width: 100%;
+background-image: url(./backp1.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.rgba{
+height: 100%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.8);
+
+}
+.mission{
+background-image: url(./mission.png);
+height: 300px;
+
+}
+.visone{
+    
+    background-image: url(vision.jpg);
+}
+.fastf4{
+
+height: 600px;
+width: 100%;
+/* background-color: red; */
+background-image: url(./f4main.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+}
+
+.contact{
+height: 100px;
+width: 100%;
+
+}
